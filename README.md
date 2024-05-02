@@ -1,5 +1,7 @@
 <h1>Hi 👋, I'm Aiwin!</h1> 
 
+[![](https://visitcount.itsvg.in/api?id=Aiwin17&icon=0&color=0)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 👨‍💻 All of my projects are available at [github](https://github.com/Aiwin17?tab=repositories)<br>💬 Ask me about  Javascript
 
